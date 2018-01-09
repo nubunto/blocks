@@ -1,9 +1,10 @@
 package main
 
 import (
-	"net/http"
-	"fmt"
 	"encoding/json"
+	"fmt"
+	"net/http"
+
 	"github.com/julienschmidt/httprouter"
 )
 
